@@ -5,8 +5,8 @@ url: http://webjeda.com/
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/karna"
-full-version: "http://webjeda.com/karna-full/"
+baseurl: ""
+full-version: "https://47ag925/github.io"
 
 sass:
     style: compressed
