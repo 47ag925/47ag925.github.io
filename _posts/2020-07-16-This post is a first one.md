@@ -10,3 +10,7 @@ author : 47ag925
 ---
 
 This is a first record.
+
+- [ ] Push this post to remote repository.
+- [ ] Check some markdown writing skills to upload.
+- [ ] Is it working? 

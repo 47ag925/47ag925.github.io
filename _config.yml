@@ -1,9 +1,9 @@
 
 title: 47ag925_Almost Silver
 desctiption: Make AR/VR experience, Develope AI+Open CV, Record All of this stories
+name : "47ag925"
 url: https://47ag925/github.io
 permalink: ':title/'
-
 markdown: kramdown
 baseurl: ""
 full-version: "https://47ag925/github.io"
